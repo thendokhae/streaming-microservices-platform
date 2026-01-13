@@ -1,0 +1,8 @@
+target
+**/target
+.mvn
+.git
+.gitignore
+Dockerfile
+*.jar
+
